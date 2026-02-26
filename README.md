@@ -120,13 +120,6 @@ A responsive property listing platform demonstrating structured component archit
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sean-techie&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sean-techie&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
