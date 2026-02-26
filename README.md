@@ -127,8 +127,19 @@ https://alx-listing-app-deployed-umber-eight.vercel.app/
 A responsive property listing platform demonstrating structured component architecture and clean UI design.
 
 ---
+## 🚀 Performance Overview
 
+<div align="center">
 
+![Contributions](https://img.shields.io/badge/616%20Contributions%20This%20Year-8A2BE2?style=for-the-badge)
+
+![Repositories](https://img.shields.io/badge/32%20Active%20Repositories-000000?style=for-the-badge&logo=github)
+
+<img src="https://github-readme-stats.vercel.app/api?username=sean-techie&show_icons=true&theme=radical" width="500"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sean-techie&theme=radical" width="500"/>
+
+</div>
 ---
 
 # 🎨 Beyond Code
