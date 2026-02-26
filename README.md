@@ -35,6 +35,14 @@ I focus on building scalable, responsive, and user-centered web applications usi
 
 Alongside frontend engineering, I have a strong interest in **Data Science and Machine Learning**, combining analytical thinking with clean UI design.
 
+## 🌟 Inspiration & Vision
+
+I am inspired by building intelligent systems that combine modern frontend experiences with data-driven decision making.
+
+Beyond frontend development, I am passionate about Data Science and Data Engineering — working with data pipelines, analytics, and machine learning to turn raw information into meaningful insights.
+
+My long-term goal is to bridge user experience with data intelligence — creating applications that are not only visually powerful but also smart and scalable.
+
 > “Code. Learn. Build. Repeat.”
 
 ---
