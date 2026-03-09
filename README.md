@@ -91,6 +91,14 @@ My long-term goal is to bridge user experience with data intelligence — creati
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 
+
+## 📈 Data Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
 # 🚀 Featured Projects
 
 ## 🔗 Lite-Link – URL Shortener
