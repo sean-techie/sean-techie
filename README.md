@@ -165,7 +165,6 @@ A responsive property listing platform demonstrating structured component archit
 
 ## 📊 GitHub Contributions
 
-<div align="center">
 
 ![Contributions](https://img.shields.io/badge/616%20Contributions%20This%20Year-8A2BE2?style=for-the-badge)
 
