@@ -160,7 +160,21 @@ A responsive property listing platform demonstrating structured component archit
 
 </div>
 ---
+## 📊 GitHub Contributions
 
+<div align="center">
+
+![Contributions](https://img.shields.io/badge/616%20Contributions%20This%20Year-8A2BE2?style=for-the-badge)
+
+![Repositories](https://img.shields.io/badge/32%20Active%20Repositories-000000?style=for-the-badge&logo=github)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sean-techie&show_icons=true&theme=radical&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=sean-techie&theme=radical&hide_border=true"/>
+
+</div>
 # 🎨 Beyond Code
 
 - Passionate about UI/UX trends  
